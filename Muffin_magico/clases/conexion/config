@@ -1,0 +1,10 @@
+{
+    "conexion" : {
+        "server" : "lolcalhost",
+        "user" : "root",
+        "passsword" : "",
+        "database" : "mydb",
+        "port": "3306"
+
+    }
+}
